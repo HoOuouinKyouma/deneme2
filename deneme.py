@@ -1,4 +1,6 @@
 for i in range(3):
-    print("merhaba")
+    print(i)
 
 print("merhaba")
+
+print("nasilsin")
