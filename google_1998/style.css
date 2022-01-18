@@ -1,0 +1,39 @@
+table {
+    width: 90%;
+    margin: auto;
+
+}
+
+td {
+    text-align: center;
+
+}
+
+td input[type="button"] {
+    font-weight: normal;
+}
+
+
+.centers {
+    text-align: center;
+}
+
+tr {
+    margin: 0 auto;
+}
+
+.bg-color1 {
+    background-color: #eeeeee;
+}
+
+.bg-color2 {
+    background-color: #7ee5da;
+}
+
+.inp-width {
+    width: 400px;
+}
+
+.fs-smaller {
+    font-size: smaller;
+}
